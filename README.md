@@ -162,6 +162,16 @@ Replace local backend URLs with:
 [https://decision-intelligence-backend-h6lw.onrender.com](https://decision-intelligence-backend-h6lw.onrender.com)
 
 ```
+## Screenshots
+
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/0a574564-6dbe-46a9-a88d-a9e04ce677c9" />
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/34e75618-058a-49a5-ac6f-2cb1b9b142de" />
+
+<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/0286ce3c-2951-4d8c-b502-83dfc7226022" />
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/1b7fb0f1-7d05-4ecc-9689-bf1b14c15167" />
+
 
 ---
 
@@ -188,5 +198,3 @@ Replace local backend URLs with:
 ## Author
 
 Devraj Choudhary
-👉 I can create a **MAIN portfolio README (frontend + backend combined)**
-👉 or help you **add screenshots section (very powerful for recruiters)**
