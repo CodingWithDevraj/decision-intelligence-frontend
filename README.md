@@ -164,13 +164,10 @@ Replace local backend URLs with:
 ```
 ## Screenshots
 
-<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/0a574564-6dbe-46a9-a88d-a9e04ce677c9" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/ba72cf4b-9dd7-45d8-ab5e-d9c60de1ed78" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/32d94c3e-098e-4701-a8ba-c095e728168b" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/e5266383-fd97-4bf7-b070-86542dc300f5" />
 
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/34e75618-058a-49a5-ac6f-2cb1b9b142de" />
-
-<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/0286ce3c-2951-4d8c-b502-83dfc7226022" />
-
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/1b7fb0f1-7d05-4ecc-9689-bf1b14c15167" />
 
 
 ---
